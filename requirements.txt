@@ -1,0 +1,10 @@
+youtube_transcript_api
+streamlit
+google-generativeai
+python-dotenv
+pathlib
+langdetect
+pytube
+googletrans==4.0.0-rc1
+openai-whisper
+torch
